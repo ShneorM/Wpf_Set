@@ -20,6 +20,9 @@ To run the game, open the project file in Visual Studio and run the application.
 Feel free to suggest improvements, report bugs, or submit fixes through Issues and Pull Requests on GitHub.
 
 ## Screenshots
-![1](https://github.com/user-attachments/assets/475dfa83-d317-490f-ba51-bc3b967eba90)
+
 ![2](https://github.com/user-attachments/assets/6f79058c-a6d0-4cdf-aa73-b4d0808d0dbb)
+
+![1](https://github.com/user-attachments/assets/475dfa83-d317-490f-ba51-bc3b967eba90)
+
 ![3](https://github.com/user-attachments/assets/0fc5cebf-37cc-4560-85e0-2ed73e3d969d)
