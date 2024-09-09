@@ -21,7 +21,7 @@ Feel free to suggest improvements, report bugs, or submit fixes through Issues a
 
 ## Screenshots
 
-![2](https://github.com/user-attachments/assets/6f79058c-a6d0-4cdf-aa73-b4d0808d0dbb)
+![2](https://github.com/user-attachments/assets/be1efec4-cffc-4bba-90a2-12b00bc6c394)
 
 ![1](https://github.com/user-attachments/assets/475dfa83-d317-490f-ba51-bc3b967eba90)
 
